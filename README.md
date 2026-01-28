@@ -31,7 +31,7 @@ All public issue handling is assisted by our **GitHub App (Probot-based)**, desi
 
 If an issue appears security-related, it is escalated and handled with priority.
 
-See [SECURITY.md](./SECURITY.md) for responsible disclosure.
+See [SECURITY.md](https://github.com/Fiercexontan/.github/blob/main/SECURITY.md) for responsible disclosure.
 
 ---
 
