@@ -49,7 +49,7 @@ For general guidance, see [SUPPORT.md](https://github.com/Fiercexontan/.github/b
 
 We welcome contributors who share our focus on clarity, safety, and professionalism.
 
-Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before opening pull requests.
+Please read [CONTRIBUTING.md](https://github.com/Fiercexontan/.github/blob/main/CONTRIBUTING.md) before opening pull requests.
 
 ---
 
