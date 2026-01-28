@@ -41,7 +41,7 @@ See [SECURITY.md](https://github.com/Fiercexontan/.github/blob/main/SECURITY.md)
 * Use the provided issue templates
 * Include only **non-sensitive** technical details
 
-For general guidance, see [SUPPORT.md](./SUPPORT.md).
+For general guidance, see [SUPPORT.md](https://github.com/Fiercexontan/.github/blob/main/SUPPORT.md).
 
 ---
 
